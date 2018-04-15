@@ -1,0 +1,4 @@
+现在centos 7主要用的是xfreerdp 1.0.2 的版本. 远程命令常用下面的
+xfreerdp --plugin cliprdr -g 1920x1060 -u Administrator IP:PORT 
+xfreerdp --plugin cliprdr -f 
+xfreerdp --plugin cliprdr -f -g 100% -u ng localhost:13389
