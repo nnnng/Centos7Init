@@ -2,3 +2,4 @@
 xfreerdp --plugin cliprdr -g 1920x1060 -u Administrator IP:PORT 
 xfreerdp --plugin cliprdr -f 
 xfreerdp --plugin cliprdr -f -g 100% -u ng localhost:13389
+xfreerdp --plugin cliprdr -g 90% -u ng localhost:13389
