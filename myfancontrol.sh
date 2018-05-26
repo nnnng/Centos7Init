@@ -1,8 +1,9 @@
 #!/bin/bash
+#arr_levelX=(风扇级别 起始温度 结束温度)
 arr_level0=(0 0 58000)
 arr_level_auto=('auto' 58000 32767000)
 #arr_levels=($arr_level0 $arr_level_auto)
-arr_levels=(1 0 62000  2 58000 70000  'auto' 68000 32767000)
+arr_levels=(0 0 55000 1 50000 62000  2 58000 70000  'auto' 68000 32767000)
 curActive=0
 cumulative=0
 
