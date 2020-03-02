@@ -1,0 +1,5 @@
+nautils . 
+或者
+xdg-open .
+
+xdg-open file
